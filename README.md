@@ -3,13 +3,16 @@
 
 <h3 align="left">💫About Me:</h3>
 <p align="left">
-🎓I am currently a B.Tech Computer Science Engineering student at VIT Bhopal University. My academic focus is on core computer science principles, but my true passion lies at the intersection of technology and creativity. I am deeply fascinated by Graphic Design and User Interface/User Experience (UI/UX) design, constantly exploring how to make technology more human-centered and visually appealing.💻
-In addition to my coursework, I am an active participant in extracurricular activities and college clubs. This involvement helps me develop teamwork, leadership, and project management skills, which I believe are essential for a successful career in the tech industry.🗣️ I can communicate in English, Hindi, Bengali and Marathi.
+🎓I am currently a B.Tech Computer Science Engineering student at VIT Bhopal University. My academic focus is on core computer science principles, but my true passion lies at the intersection of technology and creativity.<br>
+💻I am deeply fascinated by Graphic Design and User Interface/User Experience (UI/UX) design, constantly exploring how to make technology more human-centered and visually appealing.<br>
+✨In addition to my coursework, I am an active participant in extracurricular activities and college clubs. This involvement helps me develop teamwork, leadership, and project management skills, which I believe are essential for a successful career in the tech industry.<br>🗣️I can communicate in English, Hindi, Bengali and Marathi.
 </p>
-📫 You can reach me at: debjyoti0800@gmail.com
+📧 <a href="mailto:debjyoti0800@gmail.com"
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mail Me </h3>
 <p align="left">
+  <br>
+  
 <a href="https://linkedin.com/in/debjyoti-mitra-732354249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjyoti-mitra-732354249" height="30" width="40" /></a>
 <a href="https://instagram.com/the_decrypteddeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_decrypteddeb" height="30" width="40" /></a>
 </p>

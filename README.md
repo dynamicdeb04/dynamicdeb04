@@ -3,10 +3,9 @@
 
 <h3 align="left">💫About Me:</h3>
 <p align="left">
-I am currently a B.Tech Computer Science Engineering student at VIT Bhopal University. My academic focus is on core computer science principles, but my true passion lies at the intersection of technology and creativity. I am deeply fascinated by Graphic Design and User Interface/User Experience (UI/UX) design, constantly exploring how to make technology more human-centered and visually appealing.
-Beyond my coursework, I am an active participant in extracurricular activities and college clubs. This involvement helps me develop teamwork, leadership, and project management skills, which I believe are essential for a successful career in the tech industry.
+🎓I am currently a B.Tech Computer Science Engineering student at VIT Bhopal University. My academic focus is on core computer science principles, but my true passion lies at the intersection of technology and creativity. I am deeply fascinated by Graphic Design and User Interface/User Experience (UI/UX) design, constantly exploring how to make technology more human-centered and visually appealing.💻
+In addition to my coursework, I am an active participant in extracurricular activities and college clubs. This involvement helps me develop teamwork, leadership, and project management skills, which I believe are essential for a successful career in the tech industry.🗣️ I can communicate in English, Hindi, Bengali and Marathi.
 </p>
-
 📫 You can reach me at: debjyoti0800@gmail.com
 
 <h3 align="left">Connect with me:</h3>

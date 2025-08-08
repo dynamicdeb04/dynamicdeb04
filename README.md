@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm Debjyoti Mitra</h1>
+<h1 align="center">👋Hi there, I'm Debjyoti Mitra</h1>
 <h3 align="center">A Computer Science Engineering student at VIT Bhopal University.</h3>
 
 <h3 align="left">💫About Me:</h3>
